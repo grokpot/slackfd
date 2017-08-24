@@ -1,0 +1,15 @@
+{
+  "name": "slackfd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "slackfd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "request": "^2.81.0"
+  }
+}
